@@ -1,0 +1,5 @@
+torch==2.3.1
+torchvision==0.18.1
+Pillow==10.2.0
+Flask==3.0.3
+# captum==0.5.0
